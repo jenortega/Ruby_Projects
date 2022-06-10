@@ -1,0 +1,7 @@
+#Directory to ignore
+ruby-exercises/
+.vscode/
+
+#Files to ignore
+.DS_Store
+test.rb
